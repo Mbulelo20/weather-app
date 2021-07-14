@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import VueResource from 'vue-resource';
 import VueRouter from 'vue-router'
-import Routes from './Routes'
+import Routes from './routes'
 import VueRouterBackButton from 'vue-router-back-button'
 import {store} from './store'
 
